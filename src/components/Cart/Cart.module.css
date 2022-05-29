@@ -1,0 +1,51 @@
+.ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2em;
+  list-style: none;
+  background-color: #f7f7f76f;
+  height: 70%;
+  width: 80%;
+  overflow-y: scroll;
+  border-radius: 5px;
+  padding: 2.5vh 2.5vw;
+}
+
+.div {
+  position: fixed;
+  bottom: 10em;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+.btn {
+  cursor: pointer;
+  width: 100%;
+  height: 5vh;
+  border: transparent;
+  border-radius: 3px;
+  background-color: transparent;
+  color: #f7f7f7;
+  font-size: 1.8em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  letter-spacing: 0.8px;
+  font-weight: 300;
+  cursor: pointer;
+  background-color: rgb(10, 51, 80);
+}
+.btn:hover {
+  background-color: rgba(10, 51, 80, 0.707);
+  transition: 0.3s;
+}
+.p {
+  font-size: 2.5em;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  color: rgb(10, 51, 80);
+}
