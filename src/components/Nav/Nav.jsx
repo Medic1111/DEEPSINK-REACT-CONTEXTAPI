@@ -1,8 +1,8 @@
 import classes from "./Nav.module.css";
 import modalCtx from "../../store/cartModalCtx";
 import cartItemCtx from "../../store/cartItemCtx";
-
 import React, { useContext } from "react";
+
 const Nav = () => {
   const modalCtxManager = useContext(modalCtx);
 

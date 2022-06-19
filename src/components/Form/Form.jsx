@@ -16,6 +16,7 @@ const Form = ({ id, price }) => {
   const addHandler = (event) => {
     event.preventDefault();
     modalCtxManager.setIsModal(true);
+    console.log(modalCtxManager.isModal);
 
     const toBePushed = diveData.filter((obj, index) => {
       return index === id;
