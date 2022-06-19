@@ -30,7 +30,7 @@
 
 - localhost:3000 now should display the app
 
-# React Skills Demonstration: Front End
+# React_Skills_Demonstration: Front_End
 
 - Portals: Enhancing SEO and maintaining semantic HTML
 - Wrappers: Avoiding Tags used for styling purposes only and minimizing Divs
@@ -87,3 +87,5 @@ Renders from the context, the dives previously added, displays the total cost, t
 - Cart CheckOut: Will render another portal
 
 Checking out will render a new modal, via portal, explaining its the end of the demo project., As well as allow for modal closing via button, likely using context for the new modal.
+
+[ARYSE_TANSY]: Self-taught full-stack web developer on a life-long journey of learning and applying new skills.
