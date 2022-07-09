@@ -12,6 +12,15 @@ A scubadiving trip selling app, front-end only, with intentions to use some of t
 
 Entirely for practice.
 
+## INSTALL
+
+1. Fork the project
+2. Select its url on your forked repo
+3. Open your terminal and run `git clone` followed by the url
+4. Go into the client folder
+5. Run `npm install`
+6. Once dependencies are installed, run `npm start`
+
 ## THE PROJECT
 
 I'm an ocean lover and therefore it wasn't gonna be long until I decided to do something diving related.
